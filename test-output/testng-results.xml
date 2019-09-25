@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9723" started-at="2019-09-25T14:49:19 EET" finished-at="2019-09-25T14:49:29 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9723" started-at="2019-09-25T14:49:19 EET" finished-at="2019-09-25T14:49:29 EET">
+      <class name="DGmbH.DGmbHTask.scenarios">
+        <test-method status="PASS" signature="installApp()[pri:0, instance:DGmbH.DGmbHTask.scenarios@42f93a98]" name="installApp" is-config="true" duration-ms="16707" started-at="2019-09-25T14:49:02 EET" finished-at="2019-09-25T14:49:19 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- installApp -->
+        <test-method status="PASS" signature="homepageIsOpened()[pri:1, instance:DGmbH.DGmbHTask.scenarios@42f93a98]" name="homepageIsOpened" duration-ms="431" started-at="2019-09-25T14:49:19 EET" finished-at="2019-09-25T14:49:20 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageIsOpened -->
+        <test-method status="PASS" signature="validationsExistsDoFunctionwithoutNumbers()[pri:2, instance:DGmbH.DGmbHTask.scenarios@42f93a98]" name="validationsExistsDoFunctionwithoutNumbers" duration-ms="921" started-at="2019-09-25T14:49:20 EET" finished-at="2019-09-25T14:49:20 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationsExistsDoFunctionwithoutNumbers -->
+        <test-method status="PASS" signature="additionOfTwoNumbers_shouldLeadTo_ResultNumber()[pri:3, instance:DGmbH.DGmbHTask.scenarios@42f93a98]" name="additionOfTwoNumbers_shouldLeadTo_ResultNumber" duration-ms="2189" started-at="2019-09-25T14:49:20 EET" finished-at="2019-09-25T14:49:23 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additionOfTwoNumbers_shouldLeadTo_ResultNumber -->
+        <test-method status="PASS" signature="reset_shouldLeadTo_ResetAllFields()[pri:4, instance:DGmbH.DGmbHTask.scenarios@42f93a98]" name="reset_shouldLeadTo_ResetAllFields" duration-ms="1060" started-at="2019-09-25T14:49:23 EET" finished-at="2019-09-25T14:49:24 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reset_shouldLeadTo_ResetAllFields -->
+        <test-method status="PASS" signature="divisionOfTwoNumbers_shouldLeadTo_ResultNumber()[pri:5, instance:DGmbH.DGmbHTask.scenarios@42f93a98]" name="divisionOfTwoNumbers_shouldLeadTo_ResultNumber" duration-ms="2046" started-at="2019-09-25T14:49:24 EET" finished-at="2019-09-25T14:49:26 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divisionOfTwoNumbers_shouldLeadTo_ResultNumber -->
+        <test-method status="PASS" signature="addtionAndMultipleOfTwoNumbers_shouldLeadTo_ResultNumber()[pri:6, instance:DGmbH.DGmbHTask.scenarios@42f93a98]" name="addtionAndMultipleOfTwoNumbers_shouldLeadTo_ResultNumber" duration-ms="3020" started-at="2019-09-25T14:49:26 EET" finished-at="2019-09-25T14:49:29 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtionAndMultipleOfTwoNumbers_shouldLeadTo_ResultNumber -->
+        <test-method status="PASS" signature="closeServer()[pri:0, instance:DGmbH.DGmbHTask.scenarios@42f93a98]" name="closeServer" is-config="true" duration-ms="51" started-at="2019-09-25T14:49:29 EET" finished-at="2019-09-25T14:49:29 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeServer -->
+      </class> <!-- DGmbH.DGmbHTask.scenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
